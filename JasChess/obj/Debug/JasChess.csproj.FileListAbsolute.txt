@@ -1,0 +1,12 @@
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\bin\Debug\JasChess.exe.config
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\bin\Debug\JasChess.exe
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\bin\Debug\JasChess.pdb
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.csprojResolveAssemblyReference.cache
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.GUI.resources
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.Promocao.resources
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.Properties.Resources.resources
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.csproj.GenerateResource.Cache
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.exe
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.pdb
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.Sobre.resources
+C:\Users\Fonseca\Documents\Visual Studio 2015\Projects\JasChess\JasChess\obj\Debug\JasChess.Pensando.resources

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JasChess.Busca" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEIQAAAAgAAIAAAAAAAAABAAAAAFIA=</HashCode>
+      <FileName>Busca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.GUI" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BApEKhMAACAAQQgAAICAQAgCEAgQAQkGQACkQFBCAEE=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Heuristica" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heuristica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Jogo" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BFAAgAAAAAAAQAAABAAAAAAIgQAAAAAgACgABAAIEAQ=</HashCode>
+      <FileName>Jogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Movimentos" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAGCABAAAAEEAAAAAAAAAAIAAQAAgAAAAACgAAAEA=</HashCode>
+      <FileName>Movimentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Pecas" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMIAAIQAIYAAIIAYAIAACUoAAEAhoAAABAwAIGBBAQ=</HashCode>
+      <FileName>Pecas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Pensando" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAABAAAACAAAACAAAAIAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Pensando.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Program" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Promocao" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAABAAAACCAAQCAAEAAAAAAAAAAAAABBA=</HashCode>
+      <FileName>Promocao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Sobre" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sobre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Tabuleiro" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACoAAAAAIAAAAgAAAAAAAAAAIAAQAACAAAA=</HashCode>
+      <FileName>Tabuleiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBAAAAABCAAAApEAAAAQAEAAAAoCQCAAAAAoI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JasChess.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
